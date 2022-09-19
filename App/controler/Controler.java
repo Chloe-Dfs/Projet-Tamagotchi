@@ -1,8 +1,7 @@
 package controler;
 
 public class Controler {
-//BRUUUUUUUH
-	//lol
+//rimbault m'a tué
 	
 
 }
